@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zb/catkin_ws/SuperPoint_SLAM-master/Examples/ROS/ORB_SLAM2/build/devel/setup.sh

@@ -1,0 +1,132 @@
+[
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/mono_euroc.dir/Examples/Monocular/mono_euroc.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/Examples/Monocular/mono_euroc.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/Examples/Monocular/mono_euroc.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/mono_kitti.dir/Examples/Monocular/mono_kitti.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/Examples/Monocular/mono_kitti.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/Examples/Monocular/mono_kitti.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/Random.cpp.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/Random.cpp",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/Random.cpp"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/Timestamp.cpp.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/Timestamp.cpp",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/Timestamp.cpp"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/System.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/System.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/System.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/Tracking.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/Tracking.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/Tracking.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/LocalMapping.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/LocalMapping.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/LocalMapping.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/LoopClosing.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/LoopClosing.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/LoopClosing.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/SPextractor.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/SPextractor.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/SPextractor.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/SPmatcher.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/SPmatcher.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/SPmatcher.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/SuperPoint.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/SuperPoint.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/SuperPoint.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/FrameDrawer.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/FrameDrawer.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/FrameDrawer.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/Converter.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/Converter.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/Converter.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/MapPoint.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/MapPoint.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/MapPoint.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/KeyFrame.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/KeyFrame.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/KeyFrame.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/Map.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/Map.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/Map.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/MapDrawer.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/MapDrawer.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/MapDrawer.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/Optimizer.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/Optimizer.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/Optimizer.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/PnPsolver.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/PnPsolver.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/PnPsolver.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/Frame.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/Frame.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/Frame.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/KeyFrameDatabase.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/KeyFrameDatabase.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/KeyFrameDatabase.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/Sim3Solver.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/Sim3Solver.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/Sim3Solver.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/Initializer.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/Initializer.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/Initializer.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -DSuerPoint_SLAM_EXPORTS -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g -fPIC   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/SuerPoint_SLAM.dir/src/Viewer.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/src/Viewer.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/src/Viewer.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/rgbd_tum.dir/Examples/RGB-D/rgbd_tum.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/Examples/RGB-D/rgbd_tum.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/Examples/RGB-D/rgbd_tum.cc"
+},
+{
+  "directory": "/home/zb/catkin_ws/SuperPoint_SLAM-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DCOMPILEDWITHC14 -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"wayland\\\" -D_LINUX_ -I../ -I../include -isystem /usr/include/eigen3 -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include -isystem /home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include -isystem /usr/local/cuda-10.2/include -isystem /usr/local/include/opencv  -Wall   -O3 -march=native -std=c++14 -g   -w -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++11 -std=gnu++14 -o CMakeFiles/mono_tum.dir/Examples/Monocular/mono_tum.cc.o -c /home/zb/catkin_ws/SuperPoint_SLAM-master/Examples/Monocular/mono_tum.cc",
+  "file": "/home/zb/catkin_ws/SuperPoint_SLAM-master/Examples/Monocular/mono_tum.cc"
+}
+]

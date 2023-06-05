@@ -1,0 +1,426 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "/home/zb/catkin_ws/SuperPoint_SLAM-master/Examples/Monocular/mono_tum"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries",
+			"add_definitions",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 122,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 124,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 31,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 54,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -Wall   -O3 -march=native -std=c++14 -g   -w"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-D_GLIBCXX_USE_CXX11_ABI=1"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-std=c++11"
+				},
+				{
+					"fragment" : "-std=gnu++14"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "COMPILEDWITHC14"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "HAVE_EIGEN"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "HAVE_GLEW"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "PANGO_DEFAULT_WIN_URI=\"wayland\""
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_LINUX_"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "/home/zb/catkin_ws/SuperPoint_SLAM-master"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/home/zb/catkin_ws/SuperPoint_SLAM-master/include"
+				},
+				{
+					"backtrace" : 4,
+					"isSystem" : true,
+					"path" : "/usr/include/eigen3"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/zb/software/pytorch/torch/lib/tmp_install/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/zb/software/pytorch/torch/lib/tmp_install/include/torch/csrc/api/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/usr/local/cuda-10.2/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/usr/local/include/opencv"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2
+				],
+				"standard" : "14"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "SuerPoint_SLAM::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "mono_tum::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-Wall   -O3 -march=native -std=c++14 -g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-rdynamic",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/home/zb/catkin_ws/SuperPoint_SLAM-master/lib:/home/zb/software/pytorch/torch/lib/tmp_install/lib:/usr/local/cuda-10.2/lib64:/usr/local/lib:/home/zb/catkin_ws/SuperPoint_SLAM-master/Thirdparty/DBoW3/lib:/home/zb/catkin_ws/SuperPoint_SLAM-master/Thirdparty/g2o/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "../lib/libSuerPoint_SLAM.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/home/zb/software/pytorch/torch/lib/tmp_install/lib/libtorch.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Wl,--no-as-needed,/home/zb/software/pytorch/torch/lib/tmp_install/lib/libcaffe2.so -Wl,--as-needed",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Wl,--no-as-needed,/home/zb/software/pytorch/torch/lib/tmp_install/lib/libcaffe2_gpu.so -Wl,--as-needed",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/home/zb/software/pytorch/torch/lib/tmp_install/lib/libc10_cuda.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/home/zb/software/pytorch/torch/lib/tmp_install/lib/libcaffe2.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/home/zb/software/pytorch/torch/lib/tmp_install/lib/libc10.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/cuda-10.2/lib64/libcufft.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/cuda-10.2/lib64/libcurand.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/cuda-10.2/lib64/libcudnn.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lcublas",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lcuda",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/cuda-10.2/lib64/libnvrtc.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/cuda-10.2/lib64/libnvToolsExt.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/cuda-10.2/lib64/libcudart.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libopencv_dnn.so.3.4.5",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libopencv_ml.so.3.4.5",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libopencv_objdetect.so.3.4.5",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libopencv_shape.so.3.4.5",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libopencv_stitching.so.3.4.5",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libopencv_superres.so.3.4.5",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libopencv_videostab.so.3.4.5",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libopencv_calib3d.so.3.4.5",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libopencv_features2d.so.3.4.5",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libopencv_flann.so.3.4.5",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libopencv_highgui.so.3.4.5",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libopencv_photo.so.3.4.5",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libopencv_video.so.3.4.5",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libopencv_videoio.so.3.4.5",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libopencv_imgcodecs.so.3.4.5",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libopencv_imgproc.so.3.4.5",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libopencv_viz.so.3.4.5",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libopencv_core.so.3.4.5",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libpango_glgeometry.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libpango_geometry.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libpango_plot.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libpango_python.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libpango_scene.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libpango_tools.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libpango_display.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libpango_vars.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libpango_video.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libpango_packetstream.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libpango_windowing.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libpango_opengl.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libpango_image.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libpango_core.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lpthread",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lrt",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lGLEW",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lOpenGL",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lGLX",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lGLU",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/libtinyobj.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "../Thirdparty/DBoW3/lib/libDBoW3.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "../Thirdparty/g2o/lib/libg2o.so",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "mono_tum",
+	"nameOnDisk" : "mono_tum",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Examples/Monocular/mono_tum.cc",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

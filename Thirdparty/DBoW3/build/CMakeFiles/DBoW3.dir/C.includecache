@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zb/catkin_ws/SuperPoint_SLAM-master/Thirdparty/DBoW3/src/quicklz.c
+quicklz.h
+/home/zb/catkin_ws/SuperPoint_SLAM-master/Thirdparty/DBoW3/src/quicklz.h
+
+/home/zb/catkin_ws/SuperPoint_SLAM-master/Thirdparty/DBoW3/src/quicklz.h
+string.h
+-
+
